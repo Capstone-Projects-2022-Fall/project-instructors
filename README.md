@@ -38,7 +38,4 @@ Discuss what you need to develop this project. This includes background informat
 ## Collaborators
 
 [//]: # ( readme: collaborators -start )
-<table>
-</table>
-
 [//]: # ( readme: collaborators -end )
