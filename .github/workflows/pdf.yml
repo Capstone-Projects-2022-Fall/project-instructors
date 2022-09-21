@@ -1,7 +1,15 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Export PDF Docs
+
+on:
+  push:
+    branches: [ "main" ]
 jobs:
   build:
-    # prerequisites...
-
+    runs-on: ubuntu-latest
+    steps:
     - name: Install Prince
       run: |
         curl https://www.princexml.com/download/prince-14.2-linux-generic-x86_64.tar.gz -O
@@ -21,3 +29,4 @@ jobs:
         if-no-files-found: error
 
     # ...other steps
+
