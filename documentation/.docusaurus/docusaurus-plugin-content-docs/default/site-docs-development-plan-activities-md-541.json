@@ -1,0 +1,27 @@
+{
+  "unversionedId": "development-plan/activities",
+  "id": "development-plan/activities",
+  "title": "Activities",
+  "description": "",
+  "source": "@site/docs/development-plan/activities.md",
+  "sourceDirName": "development-plan",
+  "slug": "/development-plan/activities",
+  "permalink": "/undefined/docs/development-plan/activities",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/development-plan/activities.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Software Development Plan",
+    "permalink": "/undefined/docs/development-plan/Intro"
+  },
+  "next": {
+    "title": "Tasks",
+    "permalink": "/undefined/docs/development-plan/tasks"
+  }
+}

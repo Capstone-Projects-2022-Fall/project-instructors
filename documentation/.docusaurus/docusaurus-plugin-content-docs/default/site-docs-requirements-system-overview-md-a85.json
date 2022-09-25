@@ -1,0 +1,27 @@
+{
+  "unversionedId": "requirements/system-overview",
+  "id": "requirements/system-overview",
+  "title": "System Overview",
+  "description": "",
+  "source": "@site/docs/requirements/system-overview.md",
+  "sourceDirName": "requirements",
+  "slug": "/requirements/system-overview",
+  "permalink": "/undefined/docs/requirements/system-overview",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/requirements/system-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Requirements Documentation",
+    "permalink": "/undefined/docs/requirements/Intro"
+  },
+  "next": {
+    "title": "System Block Diagram",
+    "permalink": "/undefined/docs/requirements/system-block-diagram"
+  }
+}

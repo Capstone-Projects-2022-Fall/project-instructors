@@ -19,6 +19,7 @@
     "@docusaurus/theme-live-codeblock": "^2.0.1",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
+    "docblox2md": "^0.7.3",
     "docusaurus2-dotenv": "^1.4.0",
     "mdx-mermaid": "^1.2.3",
     "mermaid": "^8.11.5",

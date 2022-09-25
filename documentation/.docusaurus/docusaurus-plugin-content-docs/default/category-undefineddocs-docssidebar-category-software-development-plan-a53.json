@@ -1,0 +1,16 @@
+{
+  "title": "Software Development Plan",
+  "description": "Document Overview goes here.",
+  "slug": "/category/software-development-plan",
+  "permalink": "/undefined/docs/category/software-development-plan",
+  "navigation": {
+    "previous": {
+      "title": "Use-case descriptions",
+      "permalink": "/undefined/docs/requirements/use-case-descriptions"
+    },
+    "next": {
+      "title": "Activities",
+      "permalink": "/undefined/docs/development-plan/activities"
+    }
+  }
+}

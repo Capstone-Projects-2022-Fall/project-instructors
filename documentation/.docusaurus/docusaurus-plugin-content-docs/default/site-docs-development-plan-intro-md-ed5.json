@@ -1,0 +1,24 @@
+{
+  "unversionedId": "development-plan/Intro",
+  "id": "development-plan/Intro",
+  "title": "Software Development Plan",
+  "description": "Purpose",
+  "source": "@site/docs/development-plan/Intro.md",
+  "sourceDirName": "development-plan",
+  "slug": "/development-plan/Intro",
+  "permalink": "/undefined/docs/development-plan/Intro",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/development-plan/Intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Use-case descriptions",
+    "permalink": "/undefined/docs/requirements/use-case-descriptions"
+  },
+  "next": {
+    "title": "Activities",
+    "permalink": "/undefined/docs/development-plan/activities"
+  }
+}

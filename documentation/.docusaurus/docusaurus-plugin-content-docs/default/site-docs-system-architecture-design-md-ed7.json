@@ -1,0 +1,27 @@
+{
+  "unversionedId": "system-architecture/design",
+  "id": "system-architecture/design",
+  "title": "design",
+  "description": "Purpose",
+  "source": "@site/docs/system-architecture/design.md",
+  "sourceDirName": "system-architecture",
+  "slug": "/system-architecture/design",
+  "permalink": "/undefined/docs/system-architecture/design",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/system-architecture/design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "System Architecture",
+    "permalink": "/undefined/docs/category/system-architecture"
+  },
+  "next": {
+    "title": "API Specification",
+    "permalink": "/undefined/docs/category/api-specification"
+  }
+}
