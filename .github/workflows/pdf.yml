@@ -18,7 +18,7 @@ jobs:
         yes "" | sudo ./install.sh
 
     - name: Build PDF
-      run: npx docusaurus-prince-pdf -u https://capstone-projects-2022-fall.github.io/project-instructors/docs/
+      run: npx docusaurus-prince-pdf -u https://capstone-projects-2022-fall.github.io/project-instructors/docs/intro
 
     - name: Upload results
       uses: actions/upload-artifact@v3
