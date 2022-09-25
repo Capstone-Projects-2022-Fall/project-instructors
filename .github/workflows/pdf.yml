@@ -25,7 +25,7 @@ jobs:
       with:
         name: result
         # The output filename can be specified with --output option
-        path: pdf/docusaurus.io-docs.pdf
+        path: pdf/capstone-projects-2022-fall.github.io-project-instructors.pdf
         if-no-files-found: error
 
     # ...other steps
