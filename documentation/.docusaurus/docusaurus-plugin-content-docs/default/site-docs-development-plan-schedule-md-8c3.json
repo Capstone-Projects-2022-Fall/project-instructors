@@ -1,0 +1,27 @@
+{
+  "unversionedId": "development-plan/schedule",
+  "id": "development-plan/schedule",
+  "title": "Schedule",
+  "description": "",
+  "source": "@site/docs/development-plan/schedule.md",
+  "sourceDirName": "development-plan",
+  "slug": "/development-plan/schedule",
+  "permalink": "/undefined/docs/development-plan/schedule",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/development-plan/schedule.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tasks",
+    "permalink": "/undefined/docs/development-plan/tasks"
+  },
+  "next": {
+    "title": "Development Environment",
+    "permalink": "/undefined/docs/development-plan/development-environment"
+  }
+}

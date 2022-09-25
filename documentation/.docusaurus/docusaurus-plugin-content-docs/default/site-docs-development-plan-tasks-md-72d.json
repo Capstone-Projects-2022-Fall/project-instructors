@@ -1,0 +1,27 @@
+{
+  "unversionedId": "development-plan/tasks",
+  "id": "development-plan/tasks",
+  "title": "Tasks",
+  "description": "",
+  "source": "@site/docs/development-plan/tasks.md",
+  "sourceDirName": "development-plan",
+  "slug": "/development-plan/tasks",
+  "permalink": "/undefined/docs/development-plan/tasks",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/development-plan/tasks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Activities",
+    "permalink": "/undefined/docs/development-plan/activities"
+  },
+  "next": {
+    "title": "Schedule",
+    "permalink": "/undefined/docs/development-plan/schedule"
+  }
+}

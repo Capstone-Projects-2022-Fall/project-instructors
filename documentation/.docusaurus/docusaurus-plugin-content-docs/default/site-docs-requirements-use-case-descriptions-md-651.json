@@ -1,0 +1,27 @@
+{
+  "unversionedId": "requirements/use-case-descriptions",
+  "id": "requirements/use-case-descriptions",
+  "title": "Use-case descriptions",
+  "description": "",
+  "source": "@site/docs/requirements/use-case-descriptions.md",
+  "sourceDirName": "requirements",
+  "slug": "/requirements/use-case-descriptions",
+  "permalink": "/undefined/docs/requirements/use-case-descriptions",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/requirements/use-case-descriptions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Features and Requirements",
+    "permalink": "/undefined/docs/requirements/features-and-requirements"
+  },
+  "next": {
+    "title": "Software Development Plan",
+    "permalink": "/undefined/docs/development-plan/Intro"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "api-specification/application",
+  "id": "api-specification/application",
+  "title": "Laravel Backend App",
+  "description": "Generated using docblox2md. Supports C++, Java, JavaScript, and PHP.",
+  "source": "@site/docs/api-specification/application.md",
+  "sourceDirName": "api-specification",
+  "slug": "/api-specification/application",
+  "permalink": "/undefined/docs/api-specification/application",
+  "draft": false,
+  "editUrl": "https://github.com/undefined/undefined/edit/main/documentation/docs/api-specification/application.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "CalculatorModel.java",
+    "permalink": "/undefined/docs/api-specification/calculator-model-generated"
+  },
+  "next": {
+    "title": "Test Procedures",
+    "permalink": "/undefined/docs/category/test-procedures"
+  }
+}
