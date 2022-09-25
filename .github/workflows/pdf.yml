@@ -18,14 +18,14 @@ jobs:
         yes "" | sudo ./install.sh
 
     - name: Build PDF
-      run: npx docusaurus-prince-pdf -u https://capstone-projects-2022-fall.github.io/project-instructors/docs/intro
+      run: npx docusaurus-prince-pdf -u https://capstone-projects-2022-fall.github.io/project-instructors/docs/intro --output docs.pdf
 
     - name: Upload results
       uses: actions/upload-artifact@v3
       with:
         name: result
         # The output filename can be specified with --output option
-        path: pdf/capstone-projects-2022-fall.github.io-project-instructors.pdf
+        path: pdf/docs.pdf
         if-no-files-found: error
 
     # ...other steps
