@@ -114,6 +114,10 @@ const config = {
             label: 'Docusaurus Tutorial',
             position: 'left',
             activeBaseRegex: `/tutorial/`,
+          },{
+            to: '/slides',
+            label: 'Lecture Slides',
+            position: 'left',
           },
           {
             href: 'https://github.com/'+process.env.ORG_NAME+'/'+process.env.PROJECT_NAME,
